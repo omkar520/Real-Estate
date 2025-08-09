@@ -7,11 +7,24 @@ Welcome to my Electronics Real-Estate Website project repository! This project i
 ## Website Preview
 
 ![Image 1](img1.png)  
+![Image 2](img2.png)  
 ![Image 3](img3.png)  
 ![Image 4](img4.png)  
 ![Image 5](img5.png)  
 ![Image 6](img6.png)  
-![Image 7](img7.png)
+![Image 7](img7.png)  
+![Image 8](img8.png)  
+![Image 9](img9.png)  
+![Image 10](img10.png)  
+![Image 11](img11.png)  
+![Image 12](img12.png)  
+![Image 13](img13.png)  
+![Image 14](img14.png)  
+![Image 15](img15.png)  
+![Image 16](img16.png)  
+![Image 17](img17.png)  
+![Image 18](img18.png)  
+![Image 19](img19.png)  
 
 ---
 
